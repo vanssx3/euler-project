@@ -1,5 +1,5 @@
 //Problem 2: Even Fibonacci Numbers
-//By considering the terms in the Fibonacci sequence whose values do not exceed n, find the sum of the even-valued terms.
+//Objective: By considering the terms in the Fibonacci sequence whose values do not exceed n, find the sum of the even-valued terms.
 function fiboEvenSum(n) {
   var total = 0;
   var num1 = 1;
