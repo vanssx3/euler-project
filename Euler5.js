@@ -1,3 +1,6 @@
+//Project 5: Smallest Multiple
+//Objective: Find the smallest positive number that is divisible by 1 to n
+
 function smallestMult(n) {
   var i = 1
   var j = n;
